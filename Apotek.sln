@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Apotek", "Apotek\Apotek.vbproj", "{D87EF0A8-4DE5-49D6-BF5F-B54DFF8A73DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D87EF0A8-4DE5-49D6-BF5F-B54DFF8A73DD}.Debug|x86.ActiveCfg = Debug|x86
+		{D87EF0A8-4DE5-49D6-BF5F-B54DFF8A73DD}.Debug|x86.Build.0 = Debug|x86
+		{D87EF0A8-4DE5-49D6-BF5F-B54DFF8A73DD}.Release|x86.ActiveCfg = Release|x86
+		{D87EF0A8-4DE5-49D6-BF5F-B54DFF8A73DD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
